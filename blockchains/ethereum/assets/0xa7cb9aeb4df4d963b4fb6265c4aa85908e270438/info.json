@@ -1,0 +1,26 @@
+{
+    "name": "Cognofi",
+    "website": "https://cognofi.com/",
+    "description": "CognoFi ($CGF)-Your AI-Powered Insights Hub. Identify top trending tokens with Cognofi.app. Your social trading utility token.",
+    "explorer": "https://etherscan.io/token/0xa7cb9aeb4df4d963b4fb6265c4aa85908e270438",
+    "research": "https://beta.cognofi.app/login",
+    "type": "ERC20",
+    "symbol": "CGF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa7cb9aeb4df4d963b4fb6265c4aa85908e270438",
+    "tags": [
+        "Web3",
+        "Social"
+    ],
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/Congofiofficial"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/cognofi"
+        }
+    ]
+}
